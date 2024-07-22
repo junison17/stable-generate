@@ -1,0 +1,49 @@
+INFO:root:App accessed at 2024-07-22 18:06:59.574175
+INFO:root:App accessed at 2024-07-22 18:07:15.139514
+INFO:root:App accessed at 2024-07-22 18:07:34.801613
+INFO:root:App accessed at 2024-07-22 18:07:35.067517
+ERROR:root:Error generating images: 400, message='Bad Request', url=URL('https://api.stability.ai/v1/generation/stable-diffusion-xl-1024-v1-0/text-to-image')
+INFO:root:App accessed at 2024-07-22 18:07:38.808551
+INFO:root:App accessed at 2024-07-22 18:11:45.371201
+INFO:root:App accessed at 2024-07-22 18:11:46.804682
+INFO:root:App accessed at 2024-07-22 18:12:08.258045
+INFO:root:App accessed at 2024-07-22 18:12:20.244031
+INFO:root:App accessed at 2024-07-22 18:12:20.541394
+ERROR:root:Error generating images: API request failed with status 403: {"id":"b6f6b1f4312843dd4bf4586981b3959f","message":"Your request was flagged by our content moderation system, as a result your request was denied and you were not charged.","name":"content_moderation"}
+
+INFO:root:App accessed at 2024-07-22 18:12:25.297059
+INFO:root:App accessed at 2024-07-22 18:12:37.844788
+INFO:root:Image 1 rated 3/5
+INFO:root:App accessed at 2024-07-22 18:12:45.453562
+INFO:root:App accessed at 2024-07-22 20:46:09.585758
+INFO:root:App accessed at 2024-07-22 20:46:10.805421
+INFO:root:App accessed at 2024-07-22 20:46:11.832596
+INFO:root:Image 1 rated 3/5
+INFO:root:App accessed at 2024-07-22 20:47:43.514390
+INFO:root:App accessed at 2024-07-22 20:47:53.879968
+INFO:root:App accessed at 2024-07-22 20:48:20.408477
+INFO:root:App accessed at 2024-07-22 20:48:22.692232
+INFO:root:Image 1 rated 3/5
+INFO:root:App accessed at 2024-07-22 20:49:06.504010
+INFO:root:App accessed at 2024-07-22 20:49:15.136259
+INFO:root:App accessed at 2024-07-22 20:49:23.297409
+INFO:root:App accessed at 2024-07-22 20:49:37.408373
+INFO:root:App accessed at 2024-07-22 20:49:39.275071
+ERROR:root:Error generating images: API 요청 실패 (상태 코드 400): {"id":"c43c2df2b23f17797a3de8fe47844677","message":"steps: must be no greater than 50.","name":"bad_request"}
+
+INFO:root:App accessed at 2024-07-22 20:49:53.927513
+ERROR:root:Error generating images: API 요청 실패 (상태 코드 400): {"id":"9f1cdfeb6625920304af202e6cc569f4","message":"steps: must be no greater than 50.","name":"bad_request"}
+
+INFO:root:App accessed at 2024-07-22 20:50:05.229687
+INFO:root:App accessed at 2024-07-22 20:50:08.793581
+INFO:root:App accessed at 2024-07-22 20:50:10.505889
+ERROR:root:Error generating images: API 요청 실패 (상태 코드 400): {"id":"ddb01f5282df08cf228b1d8326370b5b","message":"steps: must be no greater than 50.","name":"bad_request"}
+
+INFO:root:App accessed at 2024-07-22 20:50:12.812801
+INFO:root:App accessed at 2024-07-22 20:50:21.724758
+ERROR:root:Error generating images: API 요청 실패 (상태 코드 400): {"id":"32eac949e88f48fbb8b0f587590f49b1","message":"steps: must be no greater than 50.","name":"bad_request"}
+
+INFO:root:App accessed at 2024-07-22 20:50:25.243370
+ERROR:root:Error generating images: API 요청 실패 (상태 코드 400): {"id":"4432ff09ac4da720f0ba8109a730fba9","message":"steps: must be no greater than 50.","name":"bad_request"}
+
+INFO:root:App accessed at 2024-07-22 20:50:45.930007
